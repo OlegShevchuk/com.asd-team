@@ -1,0 +1,13 @@
+Примеры адресса обращения:
+
+Добавить запись:
+/asd-team/api/product/create?ownerid=1&name=Java_Api&description=Rest_Service&value=50.456&createdDate=2016-01-21
+
+Выбрать запись:
+/asd-team/api/product/1
+
+Удалить запись:
+/asd-team/api/product/del?id=25
+
+Обновить запись:
+/asd-team/api/product/update?id=1&ownerid=1&name=Java_Api&description=Rest_Service&value=50.456&createdDate=2016-01-21
